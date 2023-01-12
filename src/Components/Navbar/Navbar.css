@@ -66,6 +66,10 @@
 .fa-bars {
   color: #fff;
 }
+.fa-times {
+  color: #fff;
+  font-size: 2rem;
+}
 
 .nav-links-mobile {
   display: none;
@@ -129,12 +133,6 @@
     font-size: 1.8rem;
     cursor: pointer;
   }
-
-  .fa-times {
-    color: #fff;
-    font-size: 2rem;
-  }
-
   .nav-links-mobile {
     display: block;
     text-align: center;
